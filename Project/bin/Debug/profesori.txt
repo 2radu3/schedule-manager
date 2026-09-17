@@ -1,0 +1,6 @@
+1|Mihai|Ion|Lector
+2|Ion|Mihai|Prof. Univ.
+3|Balanescu|Radu|Conf. Dr.
+4|Catanescu|Daniel|Asistent
+5|Barbu|Miruna|Conf. Dr.
+6|Popa|Dorian|Prof. Univ.

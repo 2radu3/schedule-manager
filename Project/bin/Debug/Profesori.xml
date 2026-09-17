@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <profesor>
+    <id>1</id>
+    <nume>Ionescu</nume>
+    <prenume>Andrei</prenume>
+    <titluAcademic>Conf. Dr.</titluAcademic>
+  </profesor>
+  <profesor>
+    <id>2</id>
+    <nume>Popescu</nume>
+    <prenume>Mihai</prenume>
+    <titluAcademic>Prof. Dr.</titluAcademic>
+  </profesor>
+</catalog>
